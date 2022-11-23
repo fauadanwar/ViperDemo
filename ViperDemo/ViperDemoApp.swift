@@ -11,7 +11,8 @@ import SwiftUI
 struct ViperDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            let router = FZListRouter()
+            router.getFZEmployeeListView()
         }
     }
 }

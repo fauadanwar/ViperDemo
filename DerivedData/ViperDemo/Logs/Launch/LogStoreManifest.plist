@@ -5,6 +5,142 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0555F2A0-1BFA-42AC-92CC-E7A14B38E259</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>DA050F51-7A85-49EA-95D1-8FED758B1633</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-ViperDemo-2022.11.23_12-02-56-+0530.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ViperDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ViperDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ViperDemo</string>
+			<key>timeStartedRecording</key>
+			<real>690877976.26100695</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run ViperDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>0555F2A0-1BFA-42AC-92CC-E7A14B38E259</string>
+		</dict>
+		<key>34C2070E-CB68-449F-8DA6-DC2ACD2528D5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>243F70C1-A8A7-4FAE-8A1C-FB96F227A65A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-ViperDemo-2022.11.23_12-41-47-+0530.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ViperDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ViperDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ViperDemo</string>
+			<key>timeStartedRecording</key>
+			<real>690880307.93474495</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run ViperDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>34C2070E-CB68-449F-8DA6-DC2ACD2528D5</string>
+		</dict>
+		<key>5DD1A6C5-FE58-4320-A38C-61D0EA8CE020</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>933F275F-7084-4CDF-A6C8-A470959EB67C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-ViperDemo-2022.11.23_12-00-41-+0530.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ViperDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ViperDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ViperDemo</string>
+			<key>timeStartedRecording</key>
+			<real>690877841.24510801</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run ViperDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>5DD1A6C5-FE58-4320-A38C-61D0EA8CE020</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

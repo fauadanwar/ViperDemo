@@ -8,12 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		B48F043B2924B34E00FCECE7 /* ViperDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F043A2924B34E00FCECE7 /* ViperDemoApp.swift */; };
-		B48F043D2924B34E00FCECE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F043C2924B34E00FCECE7 /* ContentView.swift */; };
+		B48F043D2924B34E00FCECE7 /* FZEmployeeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F043C2924B34E00FCECE7 /* FZEmployeeListView.swift */; };
 		B48F043F2924B35000FCECE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B48F043E2924B35000FCECE7 /* Assets.xcassets */; };
 		B48F04422924B35000FCECE7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B48F04412924B35000FCECE7 /* Preview Assets.xcassets */; };
 		B48F044C2924B35000FCECE7 /* ViperDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F044B2924B35000FCECE7 /* ViperDemoTests.swift */; };
 		B48F04562924B35000FCECE7 /* ViperDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F04552924B35000FCECE7 /* ViperDemoUITests.swift */; };
 		B48F04582924B35000FCECE7 /* ViperDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F04572924B35000FCECE7 /* ViperDemoUITestsLaunchTests.swift */; };
+		B48F04652924B41900FCECE7 /* FZEmployee.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F04642924B41900FCECE7 /* FZEmployee.swift */; };
+		B48F04672924B42D00FCECE7 /* FZListPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F04662924B42D00FCECE7 /* FZListPresenter.swift */; };
+		B48F04692924B45000FCECE7 /* FZLisInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F04682924B45000FCECE7 /* FZLisInteractor.swift */; };
+		B48F046B2924B45B00FCECE7 /* FZListRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F046A2924B45B00FCECE7 /* FZListRouter.swift */; };
+		B48F046D2924B46E00FCECE7 /* FZEmployeeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F046C2924B46E00FCECE7 /* FZEmployeeDetailView.swift */; };
+		B48F046F2924B4A100FCECE7 /* FZEmployeeDetailPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48F046E2924B4A100FCECE7 /* FZEmployeeDetailPresenter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +42,7 @@
 /* Begin PBXFileReference section */
 		B48F04372924B34E00FCECE7 /* ViperDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViperDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B48F043A2924B34E00FCECE7 /* ViperDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViperDemoApp.swift; sourceTree = "<group>"; };
-		B48F043C2924B34E00FCECE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B48F043C2924B34E00FCECE7 /* FZEmployeeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FZEmployeeListView.swift; sourceTree = "<group>"; };
 		B48F043E2924B35000FCECE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B48F04412924B35000FCECE7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B48F04472924B35000FCECE7 /* ViperDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ViperDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +50,12 @@
 		B48F04512924B35000FCECE7 /* ViperDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ViperDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B48F04552924B35000FCECE7 /* ViperDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViperDemoUITests.swift; sourceTree = "<group>"; };
 		B48F04572924B35000FCECE7 /* ViperDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViperDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B48F04642924B41900FCECE7 /* FZEmployee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FZEmployee.swift; sourceTree = "<group>"; };
+		B48F04662924B42D00FCECE7 /* FZListPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FZListPresenter.swift; sourceTree = "<group>"; };
+		B48F04682924B45000FCECE7 /* FZLisInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FZLisInteractor.swift; sourceTree = "<group>"; };
+		B48F046A2924B45B00FCECE7 /* FZListRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FZListRouter.swift; sourceTree = "<group>"; };
+		B48F046C2924B46E00FCECE7 /* FZEmployeeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FZEmployeeDetailView.swift; sourceTree = "<group>"; };
+		B48F046E2924B4A100FCECE7 /* FZEmployeeDetailPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FZEmployeeDetailPresenter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +107,11 @@
 			isa = PBXGroup;
 			children = (
 				B48F043A2924B34E00FCECE7 /* ViperDemoApp.swift */,
-				B48F043C2924B34E00FCECE7 /* ContentView.swift */,
+				B48F04742924B5F700FCECE7 /* Entity */,
+				B48F04712924B5E100FCECE7 /* View */,
+				B48F04702924B5D700FCECE7 /* Presenter */,
+				B48F04722924B5E900FCECE7 /* Interactor */,
+				B48F04732924B5EF00FCECE7 /* Router */,
 				B48F043E2924B35000FCECE7 /* Assets.xcassets */,
 				B48F04402924B35000FCECE7 /* Preview Content */,
 			);
@@ -125,6 +141,48 @@
 				B48F04572924B35000FCECE7 /* ViperDemoUITestsLaunchTests.swift */,
 			);
 			path = ViperDemoUITests;
+			sourceTree = "<group>";
+		};
+		B48F04702924B5D700FCECE7 /* Presenter */ = {
+			isa = PBXGroup;
+			children = (
+				B48F04662924B42D00FCECE7 /* FZListPresenter.swift */,
+				B48F046E2924B4A100FCECE7 /* FZEmployeeDetailPresenter.swift */,
+			);
+			path = Presenter;
+			sourceTree = "<group>";
+		};
+		B48F04712924B5E100FCECE7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				B48F043C2924B34E00FCECE7 /* FZEmployeeListView.swift */,
+				B48F046C2924B46E00FCECE7 /* FZEmployeeDetailView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		B48F04722924B5E900FCECE7 /* Interactor */ = {
+			isa = PBXGroup;
+			children = (
+				B48F04682924B45000FCECE7 /* FZLisInteractor.swift */,
+			);
+			path = Interactor;
+			sourceTree = "<group>";
+		};
+		B48F04732924B5EF00FCECE7 /* Router */ = {
+			isa = PBXGroup;
+			children = (
+				B48F046A2924B45B00FCECE7 /* FZListRouter.swift */,
+			);
+			path = Router;
+			sourceTree = "<group>";
+		};
+		B48F04742924B5F700FCECE7 /* Entity */ = {
+			isa = PBXGroup;
+			children = (
+				B48F04642924B41900FCECE7 /* FZEmployee.swift */,
+			);
+			path = Entity;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,7 +315,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B48F043D2924B34E00FCECE7 /* ContentView.swift in Sources */,
+				B48F04672924B42D00FCECE7 /* FZListPresenter.swift in Sources */,
+				B48F04692924B45000FCECE7 /* FZLisInteractor.swift in Sources */,
+				B48F043D2924B34E00FCECE7 /* FZEmployeeListView.swift in Sources */,
+				B48F04652924B41900FCECE7 /* FZEmployee.swift in Sources */,
+				B48F046F2924B4A100FCECE7 /* FZEmployeeDetailPresenter.swift in Sources */,
+				B48F046B2924B45B00FCECE7 /* FZListRouter.swift in Sources */,
+				B48F046D2924B46E00FCECE7 /* FZEmployeeDetailView.swift in Sources */,
 				B48F043B2924B34E00FCECE7 /* ViperDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
